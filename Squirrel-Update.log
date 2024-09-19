@@ -1,0 +1,216 @@
+﻿[30/07/24 16:23:35] info: Program: Starting Squirrel Updater: --update https://dl.pstmn.io/update/WIN64/11.5.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[30/07/24 16:23:35] info: Program: Starting update, downloading from https://dl.pstmn.io/update/WIN64/11.5.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[30/07/24 16:23:35] info: Program: About to update to: C:\Users\sirji\AppData\Local\Postman
+[30/07/24 16:23:35] info: CheckForUpdateImpl: Using existing staging user ID: 64f8e23f-9abf-5f4a-917f-39abfe5b316d
+[30/07/24 16:23:35] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/11.5.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=0&syncEnabled=false&teamPlan=&teamId=0
+[30/07/24 16:23:35] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/11.5.0/stable/RELEASES?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=0&syncEnabled=false&teamPlan=&teamId=0&id=Postman&localVersion=11.5.0&arch=amd64
+[30/07/24 16:23:36] info: FileDownloader: Downloading file: https://dl.pstmn.io/download/11.6.0/Postman-win64-11.6.0-full.nupkg
+[30/07/24 16:24:28] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\sirji\AppData\Local\Postman\app-11.6.0
+[30/07/24 16:24:31] info: LogHost: Rigging execution stub for Postman_ExecutionStub.exe to C:\Users\sirji\AppData\Local\Postman\Postman.exe
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Squirrel Enabled Apps: []
+[30/07/24 16:24:35] warn: ApplyReleasesImpl: No apps are marked as Squirrel-aware! Going to run them all
+[30/07/24 16:24:35] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.6.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.6.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[30/07/24 16:24:35] info: ApplyReleasesImpl: Fixing up tray icons
+[30/07/24 16:24:35] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 11.6.0
+[30/07/24 16:24:35] info: ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-11.5.0
+[30/07/24 16:24:35] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-11.6.0
+[30/07/24 16:24:36] info: Program: Finished Squirrel Updater
+[07/08/24 14:07:14] info: Program: Starting Squirrel Updater: --update https://dl.pstmn.io/update/WIN64/11.6.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[07/08/24 14:07:14] info: Program: Starting update, downloading from https://dl.pstmn.io/update/WIN64/11.6.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[07/08/24 14:07:14] info: Program: About to update to: C:\Users\sirji\AppData\Local\Postman
+[07/08/24 14:07:15] info: CheckForUpdateImpl: Using existing staging user ID: 64f8e23f-9abf-5f4a-917f-39abfe5b316d
+[07/08/24 14:07:15] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/11.6.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[07/08/24 14:07:16] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/11.6.0/stable/RELEASES?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=11.6.0&arch=amd64
+[07/08/24 14:07:17] info: FileDownloader: Downloading file: https://dl.pstmn.io/download/11.7.0/Postman-win64-11.7.0-full.nupkg
+[07/08/24 14:07:51] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\sirji\AppData\Local\Postman\app-11.7.0
+[07/08/24 14:07:55] info: LogHost: Rigging execution stub for Postman_ExecutionStub.exe to C:\Users\sirji\AppData\Local\Postman\Postman.exe
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Squirrel Enabled Apps: []
+[07/08/24 14:08:00] warn: ApplyReleasesImpl: No apps are marked as Squirrel-aware! Going to run them all
+[07/08/24 14:08:00] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.7.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.7.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[07/08/24 14:08:00] info: ApplyReleasesImpl: Fixing up tray icons
+[07/08/24 14:08:01] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 11.7.0
+[07/08/24 14:08:01] info: ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-11.6.0
+[07/08/24 14:08:01] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-11.7.0
+[07/08/24 14:08:02] info: Program: Finished Squirrel Updater
+[13/08/24 12:54:24] info: Program: Starting Squirrel Updater: --update https://dl.pstmn.io/update/WIN64/11.7.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[13/08/24 12:54:24] info: Program: Starting update, downloading from https://dl.pstmn.io/update/WIN64/11.7.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[13/08/24 12:54:24] info: Program: About to update to: C:\Users\sirji\AppData\Local\Postman
+[13/08/24 12:54:24] info: CheckForUpdateImpl: Using existing staging user ID: 64f8e23f-9abf-5f4a-917f-39abfe5b316d
+[13/08/24 12:54:24] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/11.7.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[13/08/24 12:54:24] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/11.7.0/stable/RELEASES?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=11.7.0&arch=amd64
+[13/08/24 12:54:25] info: FileDownloader: Downloading file: https://dl.pstmn.io/download/11.8.0/Postman-win64-11.8.0-full.nupkg
+[13/08/24 12:54:43] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\sirji\AppData\Local\Postman\app-11.8.0
+[13/08/24 12:54:48] info: LogHost: Rigging execution stub for Postman_ExecutionStub.exe to C:\Users\sirji\AppData\Local\Postman\Postman.exe
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Squirrel Enabled Apps: []
+[13/08/24 12:54:53] warn: ApplyReleasesImpl: No apps are marked as Squirrel-aware! Going to run them all
+[13/08/24 12:54:53] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.8.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.8.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[13/08/24 12:54:53] info: ApplyReleasesImpl: Fixing up tray icons
+[13/08/24 12:54:53] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 11.8.0
+[13/08/24 12:54:53] info: ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-11.7.0
+[13/08/24 12:54:53] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-11.8.0
+[13/08/24 12:54:57] info: Program: Finished Squirrel Updater
+[23/08/24 13:48:52] info: Program: Starting Squirrel Updater: --update https://dl.pstmn.io/update/WIN64/11.8.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[23/08/24 13:48:52] info: Program: Starting update, downloading from https://dl.pstmn.io/update/WIN64/11.8.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[23/08/24 13:48:52] info: Program: About to update to: C:\Users\sirji\AppData\Local\Postman
+[23/08/24 13:48:52] info: CheckForUpdateImpl: Using existing staging user ID: 64f8e23f-9abf-5f4a-917f-39abfe5b316d
+[23/08/24 13:48:53] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/11.8.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[23/08/24 13:48:53] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/11.8.0/stable/RELEASES?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=11.8.0&arch=amd64
+[23/08/24 13:48:54] info: FileDownloader: Downloading file: https://dl.pstmn.io/download/11.9.0/Postman-win64-11.9.0-full.nupkg
+[23/08/24 13:49:29] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\sirji\AppData\Local\Postman\app-11.9.0
+[23/08/24 13:49:33] info: LogHost: Rigging execution stub for Postman_ExecutionStub.exe to C:\Users\sirji\AppData\Local\Postman\Postman.exe
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Squirrel Enabled Apps: []
+[23/08/24 13:49:39] warn: ApplyReleasesImpl: No apps are marked as Squirrel-aware! Going to run them all
+[23/08/24 13:49:39] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[23/08/24 13:49:39] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.9.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[23/08/24 13:49:39] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.9.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[23/08/24 13:49:39] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[23/08/24 13:49:40] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[23/08/24 13:49:40] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[23/08/24 13:49:40] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[23/08/24 13:49:40] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[23/08/24 13:49:40] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[23/08/24 13:49:40] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[23/08/24 13:49:40] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[23/08/24 13:49:40] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[23/08/24 13:49:40] info: ApplyReleasesImpl: Fixing up tray icons
+[23/08/24 13:49:40] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 11.9.0
+[23/08/24 13:49:40] info: ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-11.8.0
+[23/08/24 13:49:40] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-11.9.0
+[23/08/24 13:49:43] info: Program: Finished Squirrel Updater
+[27/08/24 12:58:04] info: Program: Starting Squirrel Updater: --update https://dl.pstmn.io/update/WIN64/11.9.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[27/08/24 12:58:04] info: Program: Starting update, downloading from https://dl.pstmn.io/update/WIN64/11.9.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[27/08/24 12:58:04] info: Program: About to update to: C:\Users\sirji\AppData\Local\Postman
+[27/08/24 12:58:04] info: CheckForUpdateImpl: Using existing staging user ID: 64f8e23f-9abf-5f4a-917f-39abfe5b316d
+[27/08/24 12:58:04] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/11.9.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[27/08/24 12:58:04] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/11.9.0/stable/RELEASES?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=11.9.0&arch=amd64
+[27/08/24 12:58:05] info: FileDownloader: Downloading file: https://dl.pstmn.io/download/11.10.0/Postman-win64-11.10.0-full.nupkg
+[27/08/24 12:58:25] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\sirji\AppData\Local\Postman\app-11.10.0
+[27/08/24 12:58:29] info: LogHost: Rigging execution stub for Postman_ExecutionStub.exe to C:\Users\sirji\AppData\Local\Postman\Postman.exe
+[27/08/24 12:58:33] info: ApplyReleasesImpl: Squirrel Enabled Apps: []
+[27/08/24 12:58:33] warn: ApplyReleasesImpl: No apps are marked as Squirrel-aware! Going to run them all
+[27/08/24 12:58:33] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[27/08/24 12:58:33] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[27/08/24 12:58:33] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.10.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/08/24 12:58:33] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[27/08/24 12:58:33] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.10.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[27/08/24 12:58:34] info: ApplyReleasesImpl: Fixing up tray icons
+[27/08/24 12:58:34] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 11.10.0
+[27/08/24 12:58:34] info: ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-11.9.0
+[27/08/24 12:58:34] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-11.10.0
+[27/08/24 12:58:35] info: Program: Finished Squirrel Updater
+[12/09/24 13:16:50] info: Program: Starting Squirrel Updater: --update https://dl.pstmn.io/update/WIN64/11.10.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[12/09/24 13:16:50] info: Program: Starting update, downloading from https://dl.pstmn.io/update/WIN64/11.10.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[12/09/24 13:16:50] info: Program: About to update to: C:\Users\sirji\AppData\Local\Postman
+[12/09/24 13:16:50] info: CheckForUpdateImpl: Using existing staging user ID: 64f8e23f-9abf-5f4a-917f-39abfe5b316d
+[12/09/24 13:16:50] info: CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/11.10.0/stable?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0
+[12/09/24 13:16:50] info: FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/11.10.0/stable/RELEASES?installationId=fc2fbdf0-c4f9-45e9-ba04-fee1a3cf7e58&userId=30326661&syncEnabled=true&teamPlan=&teamId=0&id=Postman-win64&localVersion=11.10.0&arch=amd64
+[12/09/24 13:16:52] info: FileDownloader: Downloading file: https://dl.pstmn.io/download/11.12.0/Postman-win64-11.12.0-full.nupkg
+[12/09/24 13:17:11] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\sirji\AppData\Local\Postman\app-11.12.0
+[12/09/24 13:17:15] info: LogHost: Rigging execution stub for Postman_ExecutionStub.exe to C:\Users\sirji\AppData\Local\Postman\Postman.exe
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Squirrel Enabled Apps: []
+[12/09/24 13:17:20] warn: ApplyReleasesImpl: No apps are marked as Squirrel-aware! Going to run them all
+[12/09/24 13:17:20] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.12.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.12.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[12/09/24 13:17:20] info: ApplyReleasesImpl: Fixing up tray icons
+[12/09/24 13:17:20] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 11.12.0
+[12/09/24 13:17:20] info: ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-11.10.0
+[12/09/24 13:17:20] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-11.12.0
+[12/09/24 13:17:22] info: Program: Finished Squirrel Updater

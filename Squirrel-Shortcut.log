@@ -1,0 +1,70 @@
+﻿[30/07/24 16:34:17] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[30/07/24 16:34:17] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[30/07/24 16:34:17] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[30/07/24 16:34:18] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.6.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[30/07/24 16:34:18] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[30/07/24 16:34:18] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.6.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[30/07/24 16:34:18] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[30/07/24 16:34:18] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[30/07/24 16:34:18] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[30/07/24 16:34:18] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[30/07/24 16:34:18] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[30/07/24 16:34:18] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[30/07/24 16:34:18] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[30/07/24 16:34:18] info: Program: Finished Squirrel Updater
+[08/08/24 14:39:48] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[08/08/24 14:39:48] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[08/08/24 14:39:48] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[08/08/24 14:39:49] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.7.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[08/08/24 14:39:49] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[08/08/24 14:39:49] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.7.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[08/08/24 14:39:49] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[08/08/24 14:39:49] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[08/08/24 14:39:49] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[08/08/24 14:39:49] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[08/08/24 14:39:49] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[08/08/24 14:39:49] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[08/08/24 14:39:49] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[08/08/24 14:39:49] info: Program: Finished Squirrel Updater
+[22/08/24 13:43:38] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[22/08/24 13:43:38] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[22/08/24 13:43:39] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[22/08/24 13:43:39] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.8.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[22/08/24 13:43:39] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[22/08/24 13:43:39] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.8.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[22/08/24 13:43:39] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[22/08/24 13:43:39] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[22/08/24 13:43:39] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[22/08/24 13:43:39] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[22/08/24 13:43:39] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[22/08/24 13:43:39] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[22/08/24 13:43:40] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[22/08/24 13:43:40] info: Program: Finished Squirrel Updater
+[27/08/24 12:57:49] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[27/08/24 12:57:49] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[27/08/24 12:57:50] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[27/08/24 12:57:50] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.9.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/08/24 12:57:50] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[27/08/24 12:57:50] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.9.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[27/08/24 12:57:50] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[27/08/24 12:57:50] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[27/08/24 12:57:50] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[27/08/24 12:57:50] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[27/08/24 12:57:50] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[27/08/24 12:57:50] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[27/08/24 12:57:50] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[27/08/24 12:57:50] info: Program: Finished Squirrel Updater
+[29/08/24 13:47:04] info: Program: Starting Squirrel Updater: --createShortcut=Postman.exe --shortcut-locations=StartMenu,Desktop
+[29/08/24 13:47:04] info: ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\sirji\AppData\Local\Postman\
+[29/08/24 13:47:05] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+[29/08/24 13:47:05] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.10.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[29/08/24 13:47:05] info: ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\sirji\Desktop\Postman.lnk
+[29/08/24 13:47:05] info: ApplyReleasesImpl: About to save shortcut: C:\Users\sirji\Desktop\Postman.lnk (target C:\Users\sirji\AppData\Local\Postman\Postman.exe, workingDir C:\Users\sirji\AppData\Local\Postman\app-11.10.0, args , toastActivatorCSLID d56d0ae8-2c2a-5b45-bd3b-9973bc69da9e)
+[29/08/24 13:47:05] info: ApplyReleasesImpl: Examining Pin: eclipse.lnk
+[29/08/24 13:47:05] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[29/08/24 13:47:05] info: ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+[29/08/24 13:47:05] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[29/08/24 13:47:05] info: ApplyReleasesImpl: Examining Pin: MySQL Workbench 8.0 CE.lnk
+[29/08/24 13:47:05] info: ApplyReleasesImpl: Examining Pin: OBS Studio.lnk
+[29/08/24 13:47:05] info: ApplyReleasesImpl: Examining Pin: ScreenRec.lnk
+[29/08/24 13:47:05] info: Program: Finished Squirrel Updater
